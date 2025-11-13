@@ -12,5 +12,7 @@
 ![Programsyoga](screenshots/Programsyoga.PNG)
 ![Programsyoga1](screenshots/Programsyoga1.PNG)
 ![Programsyoga2](screenshots/Programsyoga2.PNG)
+![pementpage](screenshots/pementpage.PNG)
+![pementslip](screenshots/pementslip.PNG)
 
 
