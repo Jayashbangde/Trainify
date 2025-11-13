@@ -12,30 +12,42 @@ Designed responsive UI using React, HTML, and CSS for seamless user experience.
 
 ### 🏠 Home Page
 ![Home1](screenshots/Home1.PNG)
+
 ### 🏋️ Workout Plans
 ![Home2](screenshots/Home2.PNG)
+
 ### 💁‍♂️ Workout Tips
 ![Home3](screenshots/Home3.PNG)
+
 ### 🔻 Footer
 ![Home4](screenshots/Home4.PNG)
+
 ### 📝 Registration Page
 ![registrationpage](screenshots/registrationpage.PNG)
+
 ### 🔐 Login Page
 ![Loginpage](screenshots/Loginpage.PNG)
+
 ### 🔓 After Login Page
 ![loginhome](screenshots/loginhome.PNG)
+
 ### 💰 Pricing
 ![pricing](screenshots/pricing.PNG)
+
 ### 🤑 Payment
 ![pementpage](screenshots/pementpage.PNG)
+
 ### 📄 paySlip
 ![pementslip](screenshots/pementslip.PNG)
+
 ### ℹ️ About
 ![Aboutpage](screenshots/Aboutpage.PNG)
+
 ### 🧘 Yoga Pages
 ![Programsyoga](screenshots/ProgramsYoga.PNG)
 ![Programsyoga1](screenshots/Programsyoga1.PNG)
 ![Programsyoga2](screenshots/Programsyoga2.PNG)
+
 
 ## 🚀 Features
 
