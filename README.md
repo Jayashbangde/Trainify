@@ -8,11 +8,12 @@
 ![Loginpage](screenshots/Loginpage.PNG)
 ![loginhome](screenshots/loginhome.PNG)
 ![pricing](screenshots/pricing.PNG)
-![Aboutpage](screenshots/Aboutpage.PNG)
-![Programsyoga](screenshots/Programsyoga.PNG)
-![Programsyoga1](screenshots/Programsyoga1.PNG)
-![Programsyoga2](screenshots/Programsyoga2.PNG)
 ![pementpage](screenshots/pementpage.PNG)
 ![pementslip](screenshots/pementslip.PNG)
+![Aboutpage](screenshots/Aboutpage.PNG)
+![Programsyoga](screenshots/ProgramsYoga.PNG)
+![Programsyoga1](screenshots/Programsyoga1.PNG)
+![Programsyoga2](screenshots/Programsyoga2.PNG)
+
 
 
